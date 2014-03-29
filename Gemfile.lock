@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    docopt (0.5.0)
+    launch-agent (0.8.1)
+      docopt (= 0.5.0)
+      plist
+    plist (3.1.0)
+    terminal-notifier (1.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  launch-agent
+  terminal-notifier
